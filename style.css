@@ -1,0 +1,120 @@
+*{
+    
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.logo{
+    width: 163px;
+    margin-left: 34px;
+}
+
+nav{
+    height: 70px;
+    background-color: white;
+    position: fixed;
+    z-index: 0;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+nav ul{
+    float: right;
+    font-size: 18px;
+    padding-right: 140px;
+    padding-top: 4px
+}
+
+nav ul li{
+    float: left;
+    list-style-type: none;
+    margin-left: 39px;
+}
+
+.banner{
+    width: 1358px;
+    height: 680px;
+}
+
+section presentation{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.presentation1{
+    width: 683px;
+    height: 372px;
+    border-radius: 10px;
+    margin-top: -14px;
+    padding-left: 0px;
+    margin-right: 0;
+}
+
+.presentation2{
+    width: 671px;
+    height: 372px;
+    border-radius: 10px;
+    margin-top: -424px;
+    margin-left: 663px;
+}
+
+.title{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 535px;
+    font-family: 'Pacifico', cursive; 
+}
+
+.paragrafo{
+    margin-left: 144px;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 20px;
+}
+
+.place{
+    width: 447px;
+    height: 555px;
+}
+
+.place2{
+    width: 447px;
+    height: 555px;
+    margin-left: 451px;
+}
+
+.place3{
+    width: 447px;
+    height: 555px;
+    margin-left: 903px;
+}
+
+.title2{
+font-size: 35px;
+margin-top: 10px;
+margin-left: 616px;
+font-family: 'Pacifico', cursive;
+}
+
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-left: 12px;
+}
+
+.text2{
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: -624px;
+    margin-left: 500px;
+    font-size: 25px;
+}
+
+.text3{
+    margin-left: 925px;
+    margin-top: -601px;
+}
+
