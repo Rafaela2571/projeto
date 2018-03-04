@@ -85,6 +85,7 @@ section presentation{
     width: 447px;
     height: 555px;
     margin-left: 451px;
+    margin-top: -15px;
 }
 
 .place3{
@@ -103,18 +104,41 @@ font-family: 'Pacifico', cursive;
 .text{
     font-family: 'Roboto', sans-serif;
     font-size: 25px;
-    margin-left: 12px;
+    margin-left: 177px;
 }
 
 .text2{
     font-family: 'Shadows Into Light', cursive;
-    margin-top: -624px;
-    margin-left: 500px;
+    margin-top: -683px;
+    margin-left: 633px;
     font-size: 25px;
 }
 
 .text3{
-    margin-left: 925px;
-    margin-top: -601px;
+    margin-left: 1096px;
+    margin-top: -691px;
+    font-family: 'Enriqueta', serif;
+    font-size: 25px;
+}
+
+.t1{
+    margin-left: 106px;
+    font-family: 'Bad Script', cursive;
+}
+
+.t2{
+    margin-left: 480px;
+    font-family: 'Bad Script', cursive;
+}
+
+.t3{
+    margin-left: 1035px;
+    font-family: 'Bad Script', cursive;
+}
+
+.stext{
+    margin-left: 198px;
+    margin-top: 41px;
+    font-family: 'Arima Madurai', cursive;
 }
 
