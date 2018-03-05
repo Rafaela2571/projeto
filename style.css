@@ -142,3 +142,125 @@ font-family: 'Pacifico', cursive;
     font-family: 'Arima Madurai', cursive;
 }
 
+   section colaborattors{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   }
+    
+   .colaboradora{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 181px;
+   }
+
+   .colaboradora2{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 759px;
+    margin-top: -156px;
+   }
+
+   .colaboradora3{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 168px;
+    margin-top: 129px;
+   }
+
+   .colaboradora4{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 752px;
+    margin-top: -179px;
+   }
+
+   .colaboradora5{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 149px;
+    margin-top: 124px;
+   }
+
+   .title5{
+    font-family: 'Pacifico', cursive; 
+    font-size: 35px;
+    margin-left: 547px;
+   }
+
+    .cola1{
+        margin-left: 518px;
+        margin-top: -191px;
+        font-family: 'Coiny', cursive;
+        font-size: 30px;
+    }
+
+    .cola2{
+        margin-left: 1093px;
+        margin-top: -177px;
+        font-family: 'Coiny', cursive;
+        font-size: 30px;
+    }
+
+.cola3{
+    margin-left: 508px;
+    margin-top: -170px;
+    font-family: 'Coiny', cursive;
+    font-size: 30px;
+}
+
+.cola4{
+    margin-left: 1093px;
+    margin-top: -172px;
+    font-family: 'Coiny', cursive;
+    font-size: 30px;
+}
+
+.cola5{
+    margin-left: 486px;
+    margin-top: -168px;
+    font-family: 'Coiny', cursive;
+    font-size: 30px;
+}
+
+.p1{
+    font-family: 'Arima Madurai', cursive;
+    margin-left: 404px;
+    margin-top: 138px;
+}
+
+ section Social Networks{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
+   
+
+.cel0{
+    margin-left: 463px;
+    margin-top: 4px;
+    
+}
+
+.cel5{
+    margin-left: 90px;
+    width: 247px;
+    margin: 39px 83px 324px -311px;
+}
+
+.cel{
+    font-family: 'Pacifico', cursive; 
+    margin-left: 504px;
+    font-size: 35px;
+}
+
+.master{
+    font-family: 'Arima Madurai', cursive;
+    margin-left: 408px;
+}
+
