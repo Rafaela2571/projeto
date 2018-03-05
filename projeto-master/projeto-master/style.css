@@ -1,0 +1,268 @@
+*{
+    
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+.logo{
+    width: 163px;
+    margin-left: 34px;
+}
+
+nav{
+    height: 70px;
+    background-color: white;
+    position: fixed;
+    z-index: 0;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    list-style-type: none;
+    color: black;
+}
+
+nav ul{
+    float: right;
+    font-size: 18px;
+    padding-right: 140px;
+    padding-top: 4px
+}
+
+nav ul li{
+    float: left;
+    list-style-type: none;
+    margin-left: 39px;
+}
+
+.banner{
+    width: 1349px;
+    height: 696px;
+}
+
+section presentation{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.presentation1{
+    width: 683px;
+    height: 372px;
+    border-radius: 10px;
+    margin-top: -14px;
+    padding-left: 0px;
+    margin-right: 0;
+}
+
+.presentation2{
+    width: 671px;
+    height: 372px;
+    border-radius: 10px;
+    margin-top: -424px;
+    margin-left: 663px;
+}
+
+.title{
+    font-size: 35px;
+    margin-top: 10px;
+    margin-left: 535px;
+    font-family: 'Pacifico', cursive; 
+}
+
+.paragrafo{
+    margin-left: 144px;
+    font-family: 'Arima Madurai', cursive;
+    font-size: 20px;
+}
+
+.place{
+    width: 447px;
+    height: 555px;
+}
+
+.place2{
+    width: 447px;
+    height: 555px;
+    margin-left: 451px;
+    margin-top: -15px;
+}
+
+.place3{
+    width: 447px;
+    height: 555px;
+    margin-left: 903px;
+}
+
+.title2{
+font-size: 35px;
+margin-top: 10px;
+margin-left: 616px;
+font-family: 'Pacifico', cursive;
+}
+
+.text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    margin-left: 177px;
+}
+
+.text2{
+    font-family: 'Shadows Into Light', cursive;
+    margin-top: -683px;
+    margin-left: 633px;
+    font-size: 25px;
+}
+
+.text3{
+    margin-left: 1096px;
+    margin-top: -691px;
+    font-family: 'Enriqueta', serif;
+    font-size: 25px;
+}
+
+.t1{
+    margin-left: 106px;
+    font-family: 'Bad Script', cursive;
+}
+
+.t2{
+    margin-left: 569px;
+    font-family: 'Bad Script', cursive;
+}
+
+.t3{
+    margin-left: 1035px;
+    font-family: 'Bad Script', cursive;
+}
+
+.stext{
+    margin-left: 198px;
+    margin-top: 41px;
+    font-family: 'Arima Madurai', cursive;
+}
+
+   section colaborattors{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   }
+    
+   .colaboradora{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 181px;
+   }
+
+   .colaboradora2{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 759px;
+    margin-top: -156px;
+   }
+
+   .colaboradora3{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 168px;
+    margin-top: 129px;
+   }
+
+   .colaboradora4{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 752px;
+    margin-top: -179px;
+   }
+
+   .colaboradora5{
+    width: 329px;
+    height: 315px;
+    border-radius: 2000px;
+    margin-left: 149px;
+    margin-top: 124px;
+   }
+
+   .title5{
+    font-family: 'Pacifico', cursive; 
+    font-size: 35px;
+    margin-left: 547px;
+   }
+
+    .cola1{
+        margin-left: 518px;
+        margin-top: -191px;
+        font-family: 'Coiny', cursive;
+        font-size: 30px;
+    }
+
+    .cola2{
+        margin-left: 1093px;
+        margin-top: -177px;
+        font-family: 'Coiny', cursive;
+        font-size: 30px;
+    }
+
+.cola3{
+    margin-left: 508px;
+    margin-top: -170px;
+    font-family: 'Coiny', cursive;
+    font-size: 30px;
+}
+
+.cola4{
+    margin-left: 1093px;
+    margin-top: -172px;
+    font-family: 'Coiny', cursive;
+    font-size: 30px;
+}
+
+.cola5{
+    margin-left: 486px;
+    margin-top: -168px;
+    font-family: 'Coiny', cursive;
+    font-size: 30px;
+}
+
+.p1{
+    font-family: 'Arima Madurai', cursive;
+    margin-left: 327px;
+    margin-top: 172px;
+}
+
+ section Social Networks{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
+   
+
+.cel0{
+    margin-left: 463px;
+    margin-top: 4px;
+    
+}
+
+.cel5{
+    margin-left: 90px;
+    width: 247px;
+    margin: 39px 83px 271px -311px;
+}
+
+.cel{
+    font-family: 'Pacifico', cursive; 
+    margin-left: 570px;
+    font-size: 35px;
+}
+
+.master{
+    font-family: 'Arima Madurai', cursive;
+    margin-left: 435px;
+}
+
+@media(max-width: 600px){
+}
